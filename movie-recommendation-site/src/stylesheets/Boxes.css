@@ -1,0 +1,44 @@
+.boxes {
+    display: flex;
+    flex-direction: row;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    justify-content: center;
+    gap: 5px;
+    flex-wrap: wrap;
+}
+
+.Box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 80px;
+    padding-right: 126px;
+    padding-left: 126px;
+    background-color: white;
+    margin: 0%;
+    float: left;
+}
+
+.Box:hover {
+    background-color: #f3f2f0;
+    cursor: pointer;
+    transition: all .6s ease;
+    -webkit-transition: all .4s ease;
+
+}
+
+.box-title {
+    padding: 15px;
+    font-family: "Hanley Pro Sans", sans-serif;
+    font-size: 15px;
+    color: #b4841e;
+    margin-bottom: 10px;
+
+}
+
+.box-image {
+    width: 200px;
+    height: 300px;
+}

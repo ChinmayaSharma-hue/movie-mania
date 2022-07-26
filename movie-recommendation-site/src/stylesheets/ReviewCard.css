@@ -1,0 +1,22 @@
+.review-card {
+    width: 45%;
+    padding: 20px;
+    margin-bottom: 20px;
+    /* padding-left: 80px; */
+    background-color: rgb(245, 245, 245);
+}
+
+.reviewer {
+    font-size: 27px;
+}
+
+.reviewer-name {
+    font-family: "Euclid Circular A", sans-serif;
+    font-size: 28px;
+    color: #b4841e;
+    margin-bottom: 15px;
+}
+
+.review-content {
+    font-size: 22px;
+}

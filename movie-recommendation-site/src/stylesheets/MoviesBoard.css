@@ -1,0 +1,13 @@
+.movies-board {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 10px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background-color: #f8f4f4;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-bottom: 100px;
+}

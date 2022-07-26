@@ -1,0 +1,41 @@
+.movie-card {
+    font-family: 'Proxima Nova', sans-serif;
+    padding: 20px;
+    width: 250px;
+    float: left;
+    text-align: center;
+}
+
+.movie-card:hover {
+    background-color: white;
+    transition: all .2s ease-in-out;
+    -webkit-transition: all .2s ease-in-out;
+    transform: translate(0, -10px);
+    cursor: pointer;
+}
+
+.poster {
+    width: 200px;
+    height: 300px;
+    margin-bottom: 6px;
+}
+
+.release-date {
+    color: #b4841e;
+    font-weight: bold;
+    font-size: 15px;
+    margin-bottom: 5px;
+}
+
+.movie-name {
+    font-size: 17px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.movie-director {
+    font-size: 15px;
+    font-style: italic;
+    font-family: 'Georgia Pro Cond', sans-serif;
+    color: #ababab;
+}

@@ -1,0 +1,82 @@
+.profileheader {
+    display: flex;
+    width: 100vw;
+    padding: 20px;
+    padding-right: 0%;
+    padding-left: 0%;
+    background-color: black;
+    color: white;
+    align-items: center;
+    gap: 10%;
+}
+
+.profileheader--title {
+    font-family: 'Euclid Circular A', sans-serif;
+    font-size: 35px;
+    font-weight: 300;
+}
+
+.links {
+    float: left;
+    display: flex;
+    align-items: center;
+    font-size: 26px;
+    font-weight: 400;
+    font-family: 'Gotham Narrow', sans-serif;
+    letter-spacing: -0.04em;
+    gap: 20%;
+}
+
+.home:hover {
+    transition: all .4s ease;
+    -webkit-transition: all .4s ease;
+    cursor: pointer;
+    color: #b4841e;
+}
+
+.movies:hover {
+    transition: all .4s ease;
+    -webkit-transition: all .4s ease;
+    cursor: pointer;
+    color: #b4841e;
+}
+
+.profile:hover {
+    transition: all .4s ease;
+    -webkit-transition: all .4s ease;
+    cursor: pointer;
+    color: #b4841e;
+}
+
+.login:hover {
+    transition: all .4s ease;
+    -webkit-transition: all .4s ease;
+    cursor: pointer;
+    color: #b4841e;
+}
+
+.signup:hover {
+    transition: all .4s ease;
+    -webkit-transition: all .4s ease;
+    cursor: pointer;
+    color: #b4841e;
+}
+
+.logout:hover {
+    transition: all .4s ease;
+    -webkit-transition: all .4s ease;
+    cursor: pointer;
+    color: #b4841e;
+}
+
+.magGlass {
+    width: 28px;
+    height: 28px;
+    cursor: pointer;
+}
+
+.profileIcon {
+    width: 28px;
+    height: 28px;
+    cursor: pointer;
+}

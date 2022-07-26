@@ -1,0 +1,45 @@
+.profilemaincontent {
+    display: flex;
+    margin-top: 20px;
+    justify-content: left;
+    text-align: left;
+    width: 100%;
+    gap: 50px;
+}
+
+.maincontent-left {
+    padding-top: 40px;
+    /* padding-left: 0px; */
+    font-size: 23px;
+    width: 80%;
+    padding: 100px;
+}
+
+
+.maincontent-director {
+    font-family: "Hanley Pro Sans", sans-serif;
+    font-size: 20px;
+    color: #b4841e;
+    margin-bottom: 15px;
+}
+
+.maincontent-title {
+    font-size: 40px;
+    font-weight: 600;
+    margin-bottom: 60px;
+}
+
+.maincontent-synopsis {
+    line-height: 1.7em;
+}
+
+.maincontent-right {
+    padding-right: 170px;
+    padding-top: 40px;
+    background-color: rgb(245, 245, 245);
+}
+
+.maincontent-poster {
+    max-width: 400px;
+    max-height: 800%;
+}

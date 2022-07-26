@@ -1,0 +1,67 @@
+.titlebar {
+    margin-bottom: 40px;
+}
+
+.titlebar-background {
+    width: 100vw;
+    left: 0%;
+    right: 0%;
+}
+
+.titlebar-description {
+    margin: 0%;
+    color: white;
+    /* background-color: black; */
+    text-align: right;
+
+    /* height: 670px; */
+    text-align: center;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: relative;
+    bottom: 150px;
+}
+
+.Description {
+    position: relative;
+    left: 20px;
+    width: 35%;
+    color: white;
+    justify-items: flex-end;
+    align-items: flex-end;
+    position: relative;
+    height: 180px;
+    /* top: 90px; */
+}
+
+.firstline {
+    text-align: left;
+    align-items: flex-end;
+    justify-content: flex-end;
+    justify-items: flex-end;
+    align-self: flex-end;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 36px;
+}
+
+
+.secondline {
+    text-align: left;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+    font-size: 18px;
+}
+
+.movie-title {
+    justify-items: end;
+    align-items: end;
+    position: relative;
+    top: 90px;
+    right: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+    font-size: 16px;
+}
