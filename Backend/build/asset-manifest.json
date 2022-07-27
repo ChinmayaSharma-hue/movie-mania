@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cdb57fba.css",
+    "main.js": "/static/js/main.a31e7aa0.js",
+    "static/media/northman.jpg": "/static/media/northman.80b53c7b811065eb1e8e.jpg",
+    "static/media/phantomthread.png": "/static/media/phantomthread.106c1563dc4adef537f6.png",
+    "static/media/pulpFiction.png": "/static/media/pulpFiction.3ab68c7e5372dc03cba1.png",
+    "static/media/citizenKane.png": "/static/media/citizenKane.fd0012fc6cf937ca579d.png",
+    "static/media/blade-runner3.png": "/static/media/blade-runner3.ce91f350ffba1a71ebcd.png",
+    "static/media/annette.jpg": "/static/media/annette.7e9e220f1fec1131cbd3.jpg",
+    "static/media/terminator.png": "/static/media/terminator.b37176b8c3a2e56edf1a.png",
+    "static/media/bluevelvet2.jpg": "/static/media/bluevelvet2.e0820f74e1b6f5c55add.jpg",
+    "static/media/amsterdam.jpg": "/static/media/amsterdam.74f0a51a39a0c87ede33.jpg",
+    "static/media/there-will-be-blood.jpg": "/static/media/there-will-be-blood.5cc343cd7ff77a329241.jpg",
+    "static/media/mag-glass.png": "/static/media/mag-glass.9e834c37e9265dfeed50.png",
+    "static/media/removed-bgProfile.png": "/static/media/removed-bgProfile.c16b44c10583c7b1c489.png",
+    "static/media/removed-bg.png": "/static/media/removed-bg.1f292f6356fff9f26e38.png",
+    "index.html": "/index.html",
+    "main.cdb57fba.css.map": "/static/css/main.cdb57fba.css.map",
+    "main.a31e7aa0.js.map": "/static/js/main.a31e7aa0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdb57fba.css",
+    "static/js/main.a31e7aa0.js"
+  ]
+}
